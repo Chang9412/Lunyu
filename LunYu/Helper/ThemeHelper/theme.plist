@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>default</key>
+	<dict>
+        <key>name</key>
+        <string>默认</string>
+		<key>c1</key>
+		<string>0x222222</string>
+		<key>c2</key>
+		<string>0x999999</string>
+		<key>c3</key>
+		<string>0x333333</string>
+        <key>c4</key>
+        <string>0x999999</string>
+		<key>backgroundColor</key>
+		<string>0xffffff</string>
+	</dict>
+    
+    <key>dark</key>
+    <dict>
+        <key>name</key>
+        <string>黑夜</string>
+        <key>c1</key>
+        <string>0xced1d3</string>
+        <key>c2</key>
+        <string>0x8e969b</string>
+        <key>c3</key>
+        <string>0xced1d3</string>
+        <key>c4</key>
+        <string>0x8e969b</string>
+        <key>backgroundColor</key>
+        <string>0x2d3c46</string>
+    </dict>
+</dict>
+</plist>

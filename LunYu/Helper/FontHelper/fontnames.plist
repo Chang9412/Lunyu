@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>锐字云字库楷体</string>
+		<key>font</key>
+		<string>CloudKaiTiGBK</string>
+		<key>style</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>锐字云字隶变体</string>
+		<key>font</key>
+		<string>CloudLiBianGBK</string>
+		<key>style</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>851手書き雑フォント</string>
+		<key>font</key>
+		<string>851tegakizatsu</string>
+		<key>style</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>思源宋体SC</string>
+		<key>font</key>
+		<string>SourceHanSerifSC-SemiBold</string>
+		<key>style</key>
+		<string>5</string>
+	</dict>
+</array>
+</plist>

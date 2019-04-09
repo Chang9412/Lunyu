@@ -1,0 +1,60 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - FCFileManager (1.0.20)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - Masonry (1.1.0)
+  - "NSData+MD5Digest (1.0.0)"
+  - NSDate-Additions (0.0.11)
+  - SVProgressHUD (2.2.5)
+  - YYText (1.0.7)
+
+DEPENDENCIES:
+  - AFNetworking
+  - FCFileManager
+  - FMDB
+  - Masonry
+  - "NSData+MD5Digest"
+  - NSDate-Additions
+  - SVProgressHUD
+  - YYText
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - FCFileManager
+    - FMDB
+    - Masonry
+    - "NSData+MD5Digest"
+    - NSDate-Additions
+    - SVProgressHUD
+    - YYText
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  FCFileManager: e0f73316e6aa2eb04d2ff4caa75fe7df1ae44270
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  "NSData+MD5Digest": 0743d53874455e2bdf49f70e7f815b0b963a355f
+  NSDate-Additions: b26bd8c9a7303672c2d23c3c6d1c4b9456c8d8da
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  YYText: 5c461d709e24d55a182d1441c41dc639a18a4849
+
+PODFILE CHECKSUM: 5c4cbc2a9f1e94d1b8682ac9164213368fa148dc
+
+COCOAPODS: 1.5.3
